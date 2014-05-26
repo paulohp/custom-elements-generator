@@ -1,5 +1,5 @@
 {
-  "name": "custo-elements-generator",
+  "name": "custom-elements-generator",
   "main": "index.html",
   "window": {
     "toolbar": false,
