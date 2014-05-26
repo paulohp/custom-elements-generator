@@ -4,7 +4,8 @@
   "window": {
     "toolbar": false,
     "width": 800,
-    "height": 600
+    "height": 600,
+    "icon": "https://github.com/webcomponents/webcomponents-icons/blob/master/logo/logo.svg"
   },
   "devDependencies": {
     "gulp": "^3.6.2"
