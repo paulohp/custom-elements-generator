@@ -1,11 +1,16 @@
 {
   "name": "custom-elements-generator",
   "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulohp/custom-elements-generator"
+  },
   "window": {
+    "title": "Web Components Generator",
     "toolbar": false,
     "width": 800,
     "height": 600,
-    "icon":"images/logo.png" 
+    "icon": "images/logo.png"
   },
   "scripts": {
     "start": "nodewebkit"
@@ -14,6 +19,6 @@
     "gulp": "^3.6.2"
   },
   "dependencies": {
-    "nodewebkit": "^0.9.2-4"
+    "nodewebkit": "^0.9.2-5"
   }
 }
